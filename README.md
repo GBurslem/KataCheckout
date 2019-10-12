@@ -1,0 +1,1 @@
+Kata checkout system for a coding challenge.
