@@ -1,4 +1,6 @@
 /.vs
+/.vscode
 /bin
 /obj
 Sorted.csproj
+KataCheckout.csproj
